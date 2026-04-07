@@ -13,8 +13,8 @@ My goal is to build a career in cybersecurity, focusing on threat detection, inc
 
 | Project | Associated Project |
 |---|---|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/makutaallen">Network Traffic Analysis Lab</a> |
-|Incident Investigation and Alert Triage | <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a> |
+| Network Traffic Analysis | <a href="https://github.com/makutaallen">Network Traffic Analysis Lab</a> |
+|SIEM Implementation and Log Analysis Lab | <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a> |
 | Phishing URL Detector | <a href="https://github.com/makutaallen">Phishing URL Detector</a> |
 
 
