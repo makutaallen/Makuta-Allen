@@ -10,8 +10,8 @@ My goal is to build a career in cybersecurity, with a focus on Security Operatio
 
 ## Education
 
-- **New Jersey Institute of Technology (NJIT)** — Bachelor of Science in Computer Science, **Expected December 2027**
-- **County College of Morris (CCM)** — Associate of Science in Computer Science, **May 2025**
+- I am a junior at **New Jersey Institute of Technology (NJIT)** 
+- **County College of Morris (CCM)** — Associate of Science in Computer Science, ** May 2025**
 
 ## Skills
 
