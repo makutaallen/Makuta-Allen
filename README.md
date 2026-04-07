@@ -7,8 +7,8 @@ I am a junior at **New Jersey Institute of Technology** majorining in Computer S
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | COMING SOON! <!--<a href="https://google.com">Detection Lab</a>| -->
-| Network Traffic Monitoring                    | COMING SOON! <!--<a href="https://google.com">Detection Lab</a>|-->
+| SIEM Implementation and Log Analysis          | COMING SOON! <!--<a href="https://docs.google.com">Google Docs</a> | -->
+| Network Traffic Monitoring                    | COMING SOON! <!--<a href="https://docs.google.com">Google Docs</a> | -->
 | <!--Security Automation with Shuffle SOAR -->        
 | <!--Incident Response Planning and Execution-->      
 <!-- | Case Management with TheHive-->
