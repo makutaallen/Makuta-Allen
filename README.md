@@ -9,13 +9,6 @@ I am a Computer Science student at the New Jersey Institute of Technology with a
 My goal is to build a career in cybersecurity, focusing on threat detection, incident response, and security anaylis. I am developing hands-on skills in log analysis, phishing detection, network traffic investigation, and vulnerability-focused security work.
 
 
-## Projects
-
-| Project | Link |
-|---|---|
-| Phishing URL Detector | <a href="https://github.com/makutaallen">Phishing URL Detector</a> |
-
-
 ## Tools
 
 ### Programming / Scripting
