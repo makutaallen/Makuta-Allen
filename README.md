@@ -11,15 +11,14 @@ I am a Computer Science student at the **New Jersey Institute of Technology (NJI
 
 ## Objective
 
-My goal is to build a career in **cybersecurity **. I am developing hands-on experience in **log analysis, network traffic investigation, vulnerability assessment, incident response, and security monitoring**.
+My goal is to build a career in **cybersecurity**. I am developing hands-on experience in **network security, IAM, and security monitoring**.
 
 ## Experience
 
-### 💻 IT Support & Technical Experience
+### 💻 IT Intern
 
 * Managed and troubleshot **500+ school devices** in an IT internship environment
 * Performed hardware/software troubleshooting and device support
-* Helped improve device uptime and reliability
 
 ### 🔐 Hydroficient IoT Cyber Defense Externship
 * Worked on securing an **IoT water-monitoring system**
@@ -27,7 +26,7 @@ My goal is to build a career in **cybersecurity **. I am developing hands-on exp
 * Developed Python-based security scripts and monitoring tools
 * Built a **Streamlit dashboard** for monitoring system activity
 
-### 🔬 Security Research
+### 🔬 NSF Research for Undergraduates 
 * Conducted hardware-security research through an **NSF REU at Florida International University**
 * Investigated methods for detecting **hardware Trojans in integrated circuits**
 * Analyzed data from **32 integrated circuits** using MATLAB and Excel
@@ -43,8 +42,7 @@ My goal is to build a career in **cybersecurity **. I am developing hands-on exp
 
 ### 🌐 IoT Cyber Defense
 
-Security-focused IoT water-monitoring project involving:
-
+Security-focused IoT water-monitoring project using:
 * MQTT
 * Mosquitto
 * TLS/mTLS
