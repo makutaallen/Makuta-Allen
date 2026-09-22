@@ -65,17 +65,6 @@ Security-focused IoT water-monitoring project involving:
 * Used Docker to create and manage the honeypot environment
 * Studied suspicious SSH activity and attacker behavior
 
-### 🌐 Network & Security Labs
-
-Hands-on work involving:
-
-* Wireshark
-* Nmap
-* Linux
-* Kali Linux
-* Network traffic analysis
-* Vulnerability-focused security testing
-
 ## Tools
 
 ### Programming / Scripting
