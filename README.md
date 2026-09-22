@@ -7,39 +7,34 @@
 <img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-I am a Computer Science student at the **New Jersey Institute of Technology (NJIT)** with a strong interest in **cybersecurity, IT, networking, and security operations**. I enjoy building hands-on technical skills through projects, research, internships, and cybersecurity activities.
+I am a Computer Science student at the **New Jersey Institute of Technology (NJIT)** with a strong interest in **cybersecurity, IT, and networking**. I enjoy building hands-on technical skills through projects, research, internships, and cybersecurity activities.
 
 ## Objective
 
-My goal is to build a career in **cybersecurity and IT**, with a focus on security operations, network security, threat analysis, and technical support. I am developing hands-on experience in **log analysis, network traffic investigation, vulnerability assessment, incident response, and security monitoring**.
+My goal is to build a career in **cybersecurity **. I am developing hands-on experience in **log analysis, network traffic investigation, vulnerability assessment, incident response, and security monitoring**.
 
 ## Experience
 
 ### 💻 IT Support & Technical Experience
 
-* Managed and troubleshot **500+ Chromebooks** in an IT internship environment
-* Resolved **100+ technical issues weekly**
+* Managed and troubleshot **500+ school devices** in an IT internship environment
 * Performed hardware/software troubleshooting and device support
 * Helped improve device uptime and reliability
 
-### 🔐 Cybersecurity Externship
-
+### 🔐 Hydroficient IoT Cyber Defense Externship
 * Worked on securing an **IoT water-monitoring system**
 * Used **MQTT, Mosquitto, TLS/mTLS, HMAC, and replay-attack defenses**
 * Developed Python-based security scripts and monitoring tools
 * Built a **Streamlit dashboard** for monitoring system activity
 
-### 🔬 Hardware Security Research
-
+### 🔬 Security Research
 * Conducted hardware-security research through an **NSF REU at Florida International University**
 * Investigated methods for detecting **hardware Trojans in integrated circuits**
-* Analyzed data from **32 chips** using MATLAB and Excel
+* Analyzed data from **32 integrated circuits** using MATLAB and Excel
 * Applied data analysis techniques to identify security-related patterns
 
 ### 🛡️ Cybersecurity Leadership
-
 **Press Secretary — NJIT Cyber Security Network**
-
 * Support communication and outreach for the NJIT cybersecurity community
 * Help promote cybersecurity events, workshops, CTF activities, and club programs
 * Help connect students with opportunities to develop practical cybersecurity skills
@@ -112,13 +107,6 @@ Hands-on work involving:
     <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-### IoT / Networking
-
-<div>
-    <img src="https://img.shields.io/badge/-MQTT-660066?&style=for-the-badge&logo=mqtt&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCP%2FIP-00599C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TLS-721412?&style=for-the-badge&logoColor=white" />
-</div>
 
 ### Data / Research
 
@@ -147,13 +135,11 @@ Information Security Certificate
 
 ## Current Focus
 
-🔐 Cybersecurity & Security Operations
+🔐 Security Operations
 🌐 Network Security
 💻 Linux & Programming
-📊 Security Monitoring & Log Analysis
 🛡️ CTFs & Hands-on Security Labs
 ☁️ Cloud & Infrastructure Security
-
 ---
 
 **Always learning. Always building. Always improving. 🔐**
