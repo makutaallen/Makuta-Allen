@@ -1,4 +1,4 @@
-# Hello, I'm Makuta Allen 👋
+# Hello, I'm Makuta Allen 👋 
 
 <a href="https://www.linkedin.com/in/makutamallen">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -133,13 +133,6 @@ Accelerated B.S./M.S. Computer Science Program
 A.S. Computer Science
 Information Security Certificate
 
-## Current Focus
-
-🔐 Security Operations
-🌐 Network Security
-💻 Linux & Programming
-🛡️ CTFs & Hands-on Security Labs
-☁️ Cloud & Infrastructure Security
 ---
 
-**Always learning. Always building. Always improving. 🔐**
+**Always learning. Always building. Always improving.**
